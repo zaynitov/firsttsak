@@ -1,0 +1,15 @@
+Scientists,Peter,30000
+HR,Anriv,14002.23
+Programmers,Mich,6212
+Programmers,Kirk,5013
+Programmers,Max,2000
+Scientists,SuperStar,40000
+HR,Anton,23000
+Scientists,Grisha,24102
+Programmers,Pasha,3000
+Programmers,Lena,32300
+Programmers,Ekaterina,213
+HR,Johnan,14023
+HR,Joret,21032
+HR,Arnoldik,12312
+HR,Cooper,22332
